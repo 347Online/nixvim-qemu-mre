@@ -23,6 +23,9 @@
       modules = [
         nixvim.nixosModules.nixvim
         ./configuration.nix
+        {
+          programs.nixvim.enable = true;
+        }
       ];
     };
   };
