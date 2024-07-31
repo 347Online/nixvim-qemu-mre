@@ -15,7 +15,7 @@
     nixvim,
     nixpkgs,
   } @ inputs: {
-    nixosConfigurations.default = nixpkgs.lib.nixosSystem rec {
+    nixosConfigurations.default = nixpkgs.lib.nixosSystem {
       specialArgs = {
         inherit inputs;
         system = "x86_64-linux";
