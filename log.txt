@@ -1,0 +1,115 @@
+structuredAttrs is enabled
+sourcing setup hook '/nix/store/mf179bxvndj9svmq6ds2p7yrlkvgh4y2-make-shell-wrapper-hook/nix-support/setup-hook'
+sourcing setup hook '/nix/store/b08ng3862qcwrhkx8p2ji563pr87har8-die-hook/nix-support/setup-hook'
+sourcing setup hook '/nix/store/dv5vgsw8naxnkcc88x78vprbnn1pp44y-patchelf-0.15.0/nix-support/setup-hook'
+sourcing setup hook '/nix/store/i4iynx9axbq23sd0gyrc5wdb46zz6z8l-update-autotools-gnu-config-scripts-hook/nix-support/setup-hook'
+sourcing setup hook '/nix/store/h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh'
+sourcing setup hook '/nix/store/m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh'
+sourcing setup hook '/nix/store/wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh'
+sourcing setup hook '/nix/store/5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh'
+sourcing setup hook '/nix/store/fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh'
+sourcing setup hook '/nix/store/kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh'
+sourcing setup hook '/nix/store/pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh'
+sourcing setup hook '/nix/store/jivxp510zxakaaic7qkrb7v1dd2rdbw9-multiple-outputs.sh'
+sourcing setup hook '/nix/store/ilaf1w22bxi6jsi45alhmvvdgy4ly3zs-patch-shebangs.sh'
+sourcing setup hook '/nix/store/cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh'
+sourcing setup hook '/nix/store/xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh'
+sourcing setup hook '/nix/store/aazf105snicrlvyzzbdj85sx4179rpfp-set-source-date-epoch-to-latest.sh'
+sourcing setup hook '/nix/store/gps9qrh99j7g02840wv5x78ykmz30byp-strip.sh'
+sourcing setup hook '/nix/store/62zpnw69ylcfhcpy1di8152zlzmbls91-gcc-wrapper-13.3.0/nix-support/setup-hook'
+sourcing setup hook '/nix/store/pg90p34kys2famxnq7925sbgj4jrnsi8-binutils-wrapper-2.42/nix-support/setup-hook'
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/mf179bxvndj9svmq6ds2p7yrlkvgh4y2-make-shell-wrapper-hook
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/mf179bxvndj9svmq6ds2p7yrlkvgh4y2-make-shell-wrapper-hook
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/b08ng3862qcwrhkx8p2ji563pr87har8-die-hook
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/b08ng3862qcwrhkx8p2ji563pr87har8-die-hook
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/8ajmn95zh302b66f36zr7fw1mifyyw0s-lndir-1.0.5
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/8ajmn95zh302b66f36zr7fw1mifyyw0s-lndir-1.0.5
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/dv5vgsw8naxnkcc88x78vprbnn1pp44y-patchelf-0.15.0
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/dv5vgsw8naxnkcc88x78vprbnn1pp44y-patchelf-0.15.0
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/i4iynx9axbq23sd0gyrc5wdb46zz6z8l-update-autotools-gnu-config-scripts-hook
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/i4iynx9axbq23sd0gyrc5wdb46zz6z8l-update-autotools-gnu-config-scripts-hook
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/jivxp510zxakaaic7qkrb7v1dd2rdbw9-multiple-outputs.sh
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/jivxp510zxakaaic7qkrb7v1dd2rdbw9-multiple-outputs.sh
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/ilaf1w22bxi6jsi45alhmvvdgy4ly3zs-patch-shebangs.sh
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/ilaf1w22bxi6jsi45alhmvvdgy4ly3zs-patch-shebangs.sh
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/aazf105snicrlvyzzbdj85sx4179rpfp-set-source-date-epoch-to-latest.sh
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/aazf105snicrlvyzzbdj85sx4179rpfp-set-source-date-epoch-to-latest.sh
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/gps9qrh99j7g02840wv5x78ykmz30byp-strip.sh
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/gps9qrh99j7g02840wv5x78ykmz30byp-strip.sh
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/62zpnw69ylcfhcpy1di8152zlzmbls91-gcc-wrapper-13.3.0
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/62zpnw69ylcfhcpy1di8152zlzmbls91-gcc-wrapper-13.3.0
+calling 'envHostHostHook' function hook 'ccWrapper_addCVars' /nix/store/pg90p34kys2famxnq7925sbgj4jrnsi8-binutils-wrapper-2.42
+calling 'envHostHostHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/pg90p34kys2famxnq7925sbgj4jrnsi8-binutils-wrapper-2.42
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/mf179bxvndj9svmq6ds2p7yrlkvgh4y2-make-shell-wrapper-hook
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/mf179bxvndj9svmq6ds2p7yrlkvgh4y2-make-shell-wrapper-hook
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/b08ng3862qcwrhkx8p2ji563pr87har8-die-hook
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/b08ng3862qcwrhkx8p2ji563pr87har8-die-hook
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/8ajmn95zh302b66f36zr7fw1mifyyw0s-lndir-1.0.5
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/8ajmn95zh302b66f36zr7fw1mifyyw0s-lndir-1.0.5
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/dv5vgsw8naxnkcc88x78vprbnn1pp44y-patchelf-0.15.0
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/dv5vgsw8naxnkcc88x78vprbnn1pp44y-patchelf-0.15.0
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/i4iynx9axbq23sd0gyrc5wdb46zz6z8l-update-autotools-gnu-config-scripts-hook
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/i4iynx9axbq23sd0gyrc5wdb46zz6z8l-update-autotools-gnu-config-scripts-hook
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/jivxp510zxakaaic7qkrb7v1dd2rdbw9-multiple-outputs.sh
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/jivxp510zxakaaic7qkrb7v1dd2rdbw9-multiple-outputs.sh
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/ilaf1w22bxi6jsi45alhmvvdgy4ly3zs-patch-shebangs.sh
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/ilaf1w22bxi6jsi45alhmvvdgy4ly3zs-patch-shebangs.sh
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/aazf105snicrlvyzzbdj85sx4179rpfp-set-source-date-epoch-to-latest.sh
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/aazf105snicrlvyzzbdj85sx4179rpfp-set-source-date-epoch-to-latest.sh
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/gps9qrh99j7g02840wv5x78ykmz30byp-strip.sh
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/gps9qrh99j7g02840wv5x78ykmz30byp-strip.sh
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/62zpnw69ylcfhcpy1di8152zlzmbls91-gcc-wrapper-13.3.0
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/62zpnw69ylcfhcpy1di8152zlzmbls91-gcc-wrapper-13.3.0
+calling 'envHostTargetHook' function hook 'ccWrapper_addCVars' /nix/store/pg90p34kys2famxnq7925sbgj4jrnsi8-binutils-wrapper-2.42
+calling 'envHostTargetHook' function hook 'bintoolsWrapper_addLDVars' /nix/store/pg90p34kys2famxnq7925sbgj4jrnsi8-binutils-wrapper-2.42
+@nix { "action": "setPhase", "phase": "patchPhase" }
+Running phase: patchPhase
+@nix { "action": "setPhase", "phase": "updateAutotoolsGnuConfigScriptsPhase" }
+Running phase: updateAutotoolsGnuConfigScriptsPhase
+@nix { "action": "setPhase", "phase": "configurePhase" }
+Running phase: configurePhase
+calling 'preConfigure' function hook '_multioutConfig'
+no configure script, doing nothing
+@nix { "action": "setPhase", "phase": "buildPhase" }
+Running phase: buildPhase
+evaling implicit 'postBuild' string hook
+Generating remote plugin manifest
+/nix/store/4py05ai8azw14nlvfcc46r8930n4p4kv-neovim-0.10.1/bin/nvim-wrapper: error while loading shared libraries: libluajit-5.1.so.2: failed to map segment from shared object
+
+Generating rplugin.vim failed!
